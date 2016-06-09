@@ -1,11 +1,5 @@
 # code for generating vector grahic plot fo
-R version 3.3.0 (2016-05-03) -- "Supposedly Educational"
-Copyright (C) 2016 The R Foundation for Statistical Computing
-Platform: x86_64-w64-mingw32/x64 (64-bit)
 
-R is free software and comes with ABSOLUTELY NO WARRANTY.
-You are welcome to redistribute it under certain conditions.
-Type 'license()' or 'licence()' for distribution der powerpoint presenation
 # of course you can always create a tiff, jpeg or pdf and then place it manually in the graph.
 # this way however you can use transparency in powerpoint if you need it. There are two ways that I can make this happen.
 
